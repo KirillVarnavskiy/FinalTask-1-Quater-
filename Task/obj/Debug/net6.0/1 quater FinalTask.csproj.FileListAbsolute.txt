@@ -1,0 +1,30 @@
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\1 quater FinalTask\bin\Debug\net6.0\1 quater FinalTask.exe
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\1 quater FinalTask\bin\Debug\net6.0\1 quater FinalTask.deps.json
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\1 quater FinalTask\bin\Debug\net6.0\1 quater FinalTask.runtimeconfig.json
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\1 quater FinalTask\bin\Debug\net6.0\1 quater FinalTask.dll
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\1 quater FinalTask\bin\Debug\net6.0\1 quater FinalTask.pdb
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\1 quater FinalTask\obj\Debug\net6.0\1 quater FinalTask.csproj.AssemblyReference.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\1 quater FinalTask\obj\Debug\net6.0\1 quater FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\1 quater FinalTask\obj\Debug\net6.0\1 quater FinalTask.AssemblyInfoInputs.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\1 quater FinalTask\obj\Debug\net6.0\1 quater FinalTask.AssemblyInfo.cs
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\1 quater FinalTask\obj\Debug\net6.0\1 quater FinalTask.csproj.CoreCompileInputs.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\1 quater FinalTask\obj\Debug\net6.0\1 quater FinalTask.dll
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\1 quater FinalTask\obj\Debug\net6.0\refint\1 quater FinalTask.dll
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\1 quater FinalTask\obj\Debug\net6.0\1 quater FinalTask.pdb
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\1 quater FinalTask\obj\Debug\net6.0\1 quater FinalTask.genruntimeconfig.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\1 quater FinalTask\obj\Debug\net6.0\ref\1 quater FinalTask.dll
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\FinalTask\bin\Debug\net6.0\1 quater FinalTask.exe
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\FinalTask\bin\Debug\net6.0\1 quater FinalTask.deps.json
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\FinalTask\bin\Debug\net6.0\1 quater FinalTask.runtimeconfig.json
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\FinalTask\bin\Debug\net6.0\1 quater FinalTask.dll
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\FinalTask\bin\Debug\net6.0\1 quater FinalTask.pdb
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\FinalTask\obj\Debug\net6.0\1 quater FinalTask.csproj.AssemblyReference.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\FinalTask\obj\Debug\net6.0\1 quater FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\FinalTask\obj\Debug\net6.0\1 quater FinalTask.AssemblyInfoInputs.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\FinalTask\obj\Debug\net6.0\1 quater FinalTask.AssemblyInfo.cs
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\FinalTask\obj\Debug\net6.0\1 quater FinalTask.csproj.CoreCompileInputs.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\FinalTask\obj\Debug\net6.0\1 quater FinalTask.dll
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\FinalTask\obj\Debug\net6.0\refint\1 quater FinalTask.dll
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\FinalTask\obj\Debug\net6.0\1 quater FinalTask.pdb
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\FinalTask\obj\Debug\net6.0\1 quater FinalTask.genruntimeconfig.cache
+C:\Users\KVarnavskiy\YandexDisk\Education\GeekBrains\FinalTask\obj\Debug\net6.0\ref\1 quater FinalTask.dll
